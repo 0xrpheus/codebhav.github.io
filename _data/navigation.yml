@@ -1,0 +1,10 @@
+- name: home
+  link: /
+- name: now
+  link: /now/
+- name: writings
+  link: /writings/
+- name: photos
+  link: /photos/
+- name: contact
+  link: /contact/

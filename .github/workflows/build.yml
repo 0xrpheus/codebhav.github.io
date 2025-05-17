@@ -1,0 +1,56 @@
+name: Build and deploy Jekyll site
+
+on:
+    push:
+        branches: [main]
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+              with:
+                  fetch-depth: 0
+
+            - name: Generate build info
+              run: |
+                  echo "GIT_COMMIT=$(git rev-parse HEAD)" >> $GITHUB_ENV
+                  echo "GIT_REF=$(git symbolic-ref HEAD)" >> $GITHUB_ENV
+                  echo "BUILD_TIME=$(date -u +"%Y-%m-%dT%H:%M:%SZ")" >> $GITHUB_ENV
+
+            - name: Create build info file
+              run: |
+                  mkdir -p _data
+                  cat > _data/build_info.yml << EOF
+                  commit: ${{ env.GIT_COMMIT }}
+                  ref: ${{ env.GIT_REF }}
+                  time: ${{ env.BUILD_TIME }}
+                  EOF
+
+            - name: Setup Ruby
+              uses: ruby/setup-ruby@v1
+              with:
+                  ruby-version: "3.2"
+                  bundler-cache: true
+
+            - name: Build site
+              run: |
+                  echo "Building Jekyll site with plugins enabled..."
+                  JEKYLL_ENV=production bundle exec jekyll build --verbose
+
+                  # Check if tag pages were created
+                  echo "Checking for tag pages:"
+                  find _site/writings/tags -type f -name "*.html" | sort
+
+                  if [ -f _site/tag-debug.txt ]; then
+                    echo "Tag debug file content:"
+                    cat _site/tag-debug.txt
+                  else
+                    echo "Tag debug file was not created!"
+                  fi
+
+            - name: Deploy
+              uses: peaceiris/actions-gh-pages@v3
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
+                  publish_dir: ./_site

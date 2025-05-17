@@ -1,0 +1,27 @@
+<footer class="site-footer">
+	<div class="footer-content">
+		<p>
+			opinions and views shared here are solely my own and do not
+			represent the views of my university or employers.
+		</p>
+		<p>
+			all forms of media here are released under
+			<a
+				href="https://creativecommons.org/licenses/by/4.0/"
+				target="_blank"
+				>(CC BY 4.0)</a
+			>
+			• source code
+			<a
+				href="https://github.com/codebhav/codebhav.github.io"
+				target="_blank"
+				>available here</a
+			>, released under the MIT license
+		</p>
+		<p>
+			built on: {{ site.time | date: "%Y-%m-%dT%H:%M:%SZ" }} • commit: {%
+			if site.data.build_info %}{{ site.data.build_info.commit | truncate:
+			7, "" }}{% else %}unknown{% endif %}
+		</p>
+	</div>
+</footer>

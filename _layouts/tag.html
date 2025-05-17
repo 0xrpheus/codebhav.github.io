@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="tag-page">
+	<h1>{{ page.title }}</h1>
+
+	<ul class="post-list">
+		{% for post in site.tags[page.tag] %}
+		<li class="post-item">
+			<h2>
+				<a class="post-link" href="{{ post.url | relative_url }}"
+					>{{ post.title }}</a
+				>
+			</h2>
+			<p class="post-meta">
+				<time>{{ post.date | date: "%B %d, %Y" }}</time>
+			</p>
+			<p class="post-excerpt">{{ post.excerpt }}</p>
+		</li>
+		{% endfor %}
+	</ul>
+
+	<p>
+		<a href="{{ '/writings/' | relative_url }}">&larr; Back to all posts</a>
+	</p>
+</div>

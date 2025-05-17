@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<article class="photo">
+	<h1 class="photo-title">{{ page.title }}</h1>
+	<div class="photo-content">
+		<img
+			src="{{ '/assets/images/photos/fullsize/' | append: page.image | relative_url }}"
+			alt="{{ page.title }}"
+		/>
+		<div class="photo-description">{{ content }}</div>
+	</div>
+</article>
