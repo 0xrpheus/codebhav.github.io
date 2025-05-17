@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://codebhav.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://codebhav.github.io/" rel="alternate" type="text/html" /><updated>2025-05-17T22:28:17+00:00</updated><id>https://codebhav.github.io/feed.xml</id><title type="html">bhav</title><subtitle>personal portfolio website and blog</subtitle><entry><title type="html">a brand new old website</title><link href="https://codebhav.github.io/general/2025/05/17/a-brand-new-old-website.html" rel="alternate" type="text/html" title="a brand new old website" /><published>2025-05-17T21:19:00+00:00</published><updated>2025-05-17T21:19:00+00:00</updated><id>https://codebhav.github.io/general/2025/05/17/a-brand-new-old-website</id><content type="html" xml:base="https://codebhav.github.io/general/2025/05/17/a-brand-new-old-website.html"><![CDATA[<p>welcome to yet another iteration of my website.</p>
+
+<!-- more -->
+
+<p>i built the first version of my portfolio, even before i owned this domain, shortly after my first ever web programming class during my undergrad, using plain html, css, and js.</p>
+
+<figure>
+  <img src="/assets/images/blog/website-v1.png" alt="first version of vaibhav's website" />
+  <figcaption>portfolio v1</figcaption>
+</figure>
+
+<p>after about a year, i built the second version—a single-page threejs application with a cool 3d render (gltf) of a pc setup. this is, by far, the flashiest project i’ve ever worked on. i learned so much when i was working on it, like the fact that i do not enjoy working with 3d files.</p>
+
+<figure>
+  <img src="/assets/images/blog/website-v2.png" alt="second version of vaibhav's website" />
+  <figcaption>portfolio v2</figcaption>
+</figure>
+
+<p>like clockwork, i got bored after a year and built a new one overnight that was much simpler using reactjs. this time, it even had a blog section—but i never published anything, so did it really have a blog section?</p>
+
+<p>it was a really shitty website, probably the worst one of the three so far. but the homepage was a clean bento-grid layout, so i let it hang around for a while, thinking i’d fix all its flaws during christmas.</p>
+
+<figure>
+  <img src="/assets/images/blog/website-v3.png" alt="third version of vaibhav's website" />
+  <figcaption>portfolio v3</figcaption>
+</figure>
+
+<p>i tried about four or five variations of this new site, even building them using different frameworks. my use case was pretty simple: i needed a blog site to yap, with a place for people to leave comments if they wish to do so and to post the photos i’ve taken.</p>
+
+<p>at last, i have settled on an extremely simple yet elegant solution: jekyll + github pages. this site is almost entirely markdown-based, and dare i say, <em>i fw it heavy</em>. i really like how clean and simple it looks. i intend to use this space to write about projects i’m working on and also to talk about anything and everything i find interesting.</p>
+
+<p>here’s the link to my <a href="https://codebhav.github.io/feed.xml">rss feed</a></p>
+
+<p>see you around!</p>
+
+<p><br /></p>
+
+<hr />
+
+<p><br /></p>
+
+<p>ps: thanks to everyone who continues to make cool shit, and thanks to the people who’ve inspired me to build this site: <a href="https://den.dev/">den</a>, <a href="https://neal.fun/">neal</a>, <a href="https://eieio.games/">nolan</a>, <a href="https://manuelmoreale.com/">manuel</a>, <a href="https://ezrizhu.com/">ezri</a>, <a href="https://melody.codes/">melody</a>, and many, many more.</p>
+
+<p>pps: cute cat that follows the cursor: <a href="https://github.com/adryd325/oneko.js/">github.com/adryd325/oneko.js</a></p>]]></content><author><name></name></author><category term="general" /><category term="portfolio" /><summary type="html"><![CDATA[welcome to yet another iteration of my website.]]></summary></entry></feed>
