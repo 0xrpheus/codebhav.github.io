@@ -40,3 +40,13 @@ at last, i have settled on an extremely simple yet elegant solution: jekyll + gi
 here’s the link to my [rss feed](https://codebhav.github.io/feed.xml)
 
 see you around!
+
+<br>
+
+---
+
+<br>
+
+ps: thanks to everyone who continues to make cool shit, and thanks to the people who've inspired me to build this site: [den](https://den.dev/), [neal](https://neal.fun/), [nolan](https://eieio.games/), [manuel](https://manuelmoreale.com/), [ezri](https://ezrizhu.com/), [melody](https://melody.codes/), and many, many more.
+
+pps: cute cat that follows the cursor: [github.com/adryd325/oneko.js](https://github.com/adryd325/oneko.js/)
