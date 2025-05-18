@@ -74,6 +74,13 @@ defaults:
       values:
           layout: "page"
 
+compress_html:
+    clippings: all
+    comments: ["<!-- ", " -->"]
+    endings: all
+    blanklines: false
+    profile: false
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
