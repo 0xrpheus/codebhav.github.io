@@ -25,6 +25,7 @@ other (somewhat) relevant Links:
 -   twitter: <a href="https://twitter.com/reallywhybhav" target="_blank">twitter.com/reallywhybhav</a>
 -   instagram: <a href="https://www.instagram.com/reallywhybhav/" target="_blank">instagram.com/reallywhybhav/</a>
 -   mastodon: <a href="https://mastodon.social/@whybhav" target="_blank">@whybhav@mastodon.social</a>
+-   rss feed: <a href="https://whybhav.in/feed.xml" target="_blank">whybhav.in/feed.xml</a>
 
 <br>
 

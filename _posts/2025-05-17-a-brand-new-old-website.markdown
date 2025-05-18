@@ -37,7 +37,7 @@ i tried about four or five variations of this new site, even building them using
 
 at last, i have settled on an extremely simple yet elegant solution: jekyll + github pages. this site is almost entirely markdown-based, and dare i say, _i fw it heavy_. i really like how clean and simple it looks. i intend to use this space to write about projects i'm working on and also to talk about anything and everything i find interesting.
 
-here’s the link to my [rss feed](https://codebhav.github.io/feed.xml)
+here’s the link to my [rss feed](https://whybhav.in/feed.xml)
 
 see you around!
 
@@ -47,6 +47,6 @@ see you around!
 
 <br>
 
-ps: thanks to everyone who continues to make cool shit, and thanks to the people who've inspired me to build this site: [den](https://den.dev/), [neal](https://neal.fun/), [nolan](https://eieio.games/), [jan](https://netmeister.org/), [manuel](https://manuelmoreale.com/), [ezri](https://ezrizhu.com/), [melody](https://melody.codes/), and many, many more.
+ps: thanks to everyone who continues to make cool shit, and thanks to the people who've inspired me to build this site: [den](https://den.dev/), [neal](https://neal.fun/), [nolen](https://eieio.games/), [tru](https://mewtru.com/), [jan](https://netmeister.org/), [manuel](https://manuelmoreale.com/), [ezri](https://ezrizhu.com/), [melody](https://melody.codes/), and many, many more.
 
 pps: cute cat that follows the cursor: [github.com/adryd325/oneko.js](https://github.com/adryd325/oneko.js/)
