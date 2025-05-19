@@ -1,4 +1,4 @@
-# whybhav.in
+# [whybhav.in](https://whybhav.in/)
 
 hi, this is the repo of my website.
 
@@ -14,7 +14,7 @@ as someone with multiple years of experience in various frontend js frameworks, 
 
 ## local setup
 
-to to run this locally:
+to run this locally:
 
 ```bash
 # clone the repo
@@ -32,7 +32,7 @@ bundle exec jekyll serve
 
 ## photo processing
 
-i hate the idea of having to create different versions of the same photo for optimization, so i wrote a dainty shell script that you can run. it creates a low-res version of any new images you add to `/assets/images/photos/fullsize` and also automatically populates the necessary markdown files
+i hate the idea of having to manually create different versions of the same photo for optimization, so i wrote a dainty shell script that you can run. it creates a low-res version of any new images you add to `/assets/images/photos/fullsize` and also automatically populates the necessary markdown files
 
 ```bash
 chmod +x process_photos.sh
@@ -47,4 +47,4 @@ MIT licensed - see the LICENSE file for details.
 
 ## credits
 
-special thanks to github.com/adryd325/oneko.js for making a handy js script for having a cat follow your cursor around, which is objectively the best feature of this website.
+special thanks to [adryd325](https://github.com/adryd325/oneko.js) for making a handy js script for having a cat follow your cursor around, which is objectively the best feature of this website.
