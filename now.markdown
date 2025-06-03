@@ -1,24 +1,31 @@
 ---
 layout: page
-title: now (may 2025 edition)
+title: now (june 2025 edition)
 permalink: /now/
+custom_js:
+    - prideflag
 ---
 
-<p>summer break, wahuu!</p>
+<p>happy pride month!!!!! 🏳️‍🌈❤️</p>
 
-## what I'm reading
+## ongoing projects
 
--   a wrinkle in time by madeleine l'engle
--   bonjour tristesse by françoise sagan
+-   mac utility tool for removing trackers and custom URL handling
+-   [website](https://x.com/reallywhybhav/status/1928266335533842588) for ludwig's 30th birthday
 
-## what I'm playing
+## what i'm reading
 
--   nyt dailies - [you can join my leaderboard here](https://www.nytimes.com/crosswords/apps?code=52bf39e7-403d-40a2-b41f-f57b3ebaecc4)
--   going for sub-10 all country flags on sporcle
+-   blue sisters by coco mellors
+-   the mythical man-month by frederick p. brooks jr.
 
-## what I'm watching
+## what i'm playing
 
--   it's always sunny in philadelphia
+-   balatro
+-   minecraft
+
+## what i'm watching
+
+-   the studio
 -   daredevil born again
 
 <br>
@@ -27,5 +34,5 @@ permalink: /now/
 
 <br>
 
-<p>Updated May 16, 2025</p>
-<p>Part of the <a href="https://nownownow.com/about" target="_blank">/now page</a> movement.</p>
+<p>updated june 02, 2025</p>
+<p>part of the <a href="https://nownownow.com/about" target="_blank">/now page</a> movement.</p>
