@@ -4,6 +4,7 @@ title: "The Album Exchange Story"
 date: 2025-06-06 16:32:00 -0400
 categories: general
 tags: album-exchange music spotify
+comments: true
 ---
 
 During the height of Covid, a bunch of brave people gathered around a table and said, "Enough is enough!" and decided to take matters into their own hands. So they made a Discord channel to pair up random people and recommend music, and this was called Album Exchange.

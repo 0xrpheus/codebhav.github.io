@@ -4,6 +4,7 @@ title: "A Brand New Old Website"
 date: 2025-05-17 17:19:00 -0400
 categories: general
 tags: portfolio
+comments: true
 ---
 
 Welcome to yet another iteration of my website.
