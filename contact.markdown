@@ -22,9 +22,9 @@ other (somewhat) relevant Links:
 
 -   github: <a href="https://github.com/codebhav" target="_blank">github.com/codebhav</a>
 -   linkedin: <a href="https://linkedin.com/in/whybhav" target="_blank">linkedin.com/in/whybhav</a>
-<!-- -   twitter: <a href="https://twitter.com/reallywhybhav" target="_blank">twitter.com/reallywhybhav</a>
--   instagram: <a href="https://www.instagram.com/reallywhybhav/" target="_blank">instagram.com/reallywhybhav/</a>
--   mastodon: <a href="https://mastodon.social/@whybhav" target="_blank">@whybhav@mastodon.social</a> -->
+    <!-- -   twitter: <a href="https://twitter.com/reallywhybhav" target="_blank">twitter.com/reallywhybhav</a> -->
+    <!-- -   instagram: <a href="https://www.instagram.com/reallywhybhav/" target="_blank">instagram.com/reallywhybhav/</a> -->
+    <!-- -   mastodon: <a href="https://mastodon.social/@whybhav" target="_blank">@whybhav@mastodon.social</a> -->
 -   rss feed: <a href="https://whybhav.in/feed.xml" target="_blank">whybhav.in/feed.xml</a>
 
 <br>
