@@ -1,32 +1,30 @@
 ---
 layout: page
-title: now (june 2025 edition)
+title: now (sep 2025 edition)
 permalink: /now/
-custom_js:
-    - prideflag
 ---
 
-<p>happy pride month!!!!! 🏳️‍🌈❤️</p>
+<p>back to school!</p>
 
 ## ongoing projects
 
--   mac utility tool for removing trackers and custom URL handling
--   [website](https://x.com/reallywhybhav/status/1928266335533842588) for ludwig's 30th birthday
+-   CLI utility tool using Zig
+-   the new iOS26 has rekindled my interest for SwiftUI, so I have been working on a central mac app for personal automations
 
 ## what i'm reading
 
--   blue sisters by coco mellors
--   the mythical man-month by frederick p. brooks jr.
+-   katabasis by r. f. kuang
 
 ## what i'm playing
 
--   balatro
--   minecraft
+-   chess
+-   mario kart
+-   nyt pips
 
 ## what i'm watching
 
--   the studio
--   daredevil born again
+-   IASIP (rewatch)
+-   the morning show s4
 
 <br>
 
@@ -34,5 +32,5 @@ custom_js:
 
 <br>
 
-<p>updated june 02, 2025</p>
+<p>updated sep 17, 2025</p>
 <p>part of the <a href="https://nownownow.com/about" target="_blank">/now page</a> movement.</p>
